@@ -1,0 +1,24 @@
+candidate_0:
+  food_name: 'orange'
+  gram: 100
+  protein_rate: 0.1
+  fat_rate: 0.3
+  fiber_rate: 0.1
+candidate_1:
+  food_name: 'chicken_breast'
+  gram: 150
+  protein_rate: 0.3
+  fat_rate: 0.2
+  fiber_rate: 0.01
+candidate_2:
+  food_name: 'broccoli'
+  gram: 30
+  protein_rate: 0.03
+  fat_rate: 0.04
+  fiber_rate: 0.2
+candidate_3:
+  food_name: 'papaya'
+  gram: 120
+  protein_rate: 0.1
+  fat_rate: 0.2
+  fiber_rate: 0.15

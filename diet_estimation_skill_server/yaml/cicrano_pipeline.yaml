@@ -9,7 +9,7 @@ pipeline:
         weight: 1
         threshold: 50 #in grams
     2_protein_scorer:
-        weight: 1
+        weight: 2
         threshold: 1 #in grams
     3_fiber_scorer:
         weight: 3

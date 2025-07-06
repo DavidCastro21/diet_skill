@@ -22,3 +22,9 @@ candidate_3:
   protein_rate: 0.2
   fat_rate: 0.5
   fiber_rate: 0.3
+candidate_4:
+  food_name: 'banana'
+  gram: 120
+  protein_rate: 0.1
+  fat_rate: 0.2
+  fiber_rate: 0.15
